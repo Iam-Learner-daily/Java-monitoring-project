@@ -16,6 +16,7 @@
   <groupId>io.benco</groupId>
   <artifactId>java-demoapp</artifactId>
   <version>1.0.0</version>
+  <packaging>war</packaging>
   <name>java-demoapp</name>
   <description>Demo project for Spring Boot</description>
 
